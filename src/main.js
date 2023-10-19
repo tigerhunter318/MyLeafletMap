@@ -1683,3 +1683,5 @@ $(document).ready(function(){
   // Get live location of the current user. Only if Geolocation is activated (local only)
   liveLocation();
 });
+
+
