@@ -11,6 +11,8 @@ Mapus is a tool to explore and annotate collaboratively on a map. You can draw, 
 
 Made by [Alyssa X](https://alyssax.com)
 
+
+
 ## Table of contents
 - [Features](#features)
 - [Installing Mapus](#installing-mapus)
